@@ -2,6 +2,7 @@ import React from "react";
 import Typography from "@material-ui/core/Typography";
 import Button from "@material-ui/core/Button";
 import Container from "@material-ui/core/Container";
+import SendIcon  from "@material-ui/icons/Send";
 
 export default function Create() {
   return (
@@ -19,6 +20,7 @@ export default function Create() {
         color="primary"
         variant="outlined"
         onClick={() => console.log("Hello! You clicked me..")}
+        startIcon={<SendIcon />}
       >
         Submit
       </Button>
