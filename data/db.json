@@ -1,22 +1,28 @@
 {
   "notes": [
     {
-      "title":"Complete my Next course",
+      "title": "Complete my Next course",
       "details": "Course on Udemy of Next.js",
       "category": "todos",
       "id": 1
     },
     {
-      "title":"Send Documents",
+      "title": "Send Documents",
       "details": "Documents to the HR",
       "category": "work",
       "id": 2
     },
     {
-      "title":"DailyUI Challeng",
+      "title": "DailyUI Challeng",
       "details": "Make challenge of the day",
       "category": "reminders",
       "id": 3
+    },
+    {
+      "title": "Make a new course",
+      "details": "UI Design course.",
+      "category": "todos",
+      "id": 4
     }
   ]
 }
